@@ -12,7 +12,7 @@
 - Slides: [URLs and File Paths](https://acidtone.github.io/sessions-c11/misc/urls-file-paths.html)
 - [Files, directories and naming conventions](https://gist.github.com/acidtone/d77059ec1851eff266339a3df70f6984)
 - [Command Line Basics](https://gist.github.com/acidtone/316d2bd9cf59f841684dbd68ffc3ee95)
-- Command Line Activity: [Follow the White Rabbit](https://gist.github.com/acidtone/6e3b69b7f2a81573d683b716fb069296)
+- Activity: [Follow the White Rabbit](https://gist.github.com/acidtone/6e3b69b7f2a81573d683b716fb069296)
 
 ### 2. Git and Github
 - Slides: [Git and GitHub Basics](assets/files/Tech%20Appendix%20-%20Git%20and%20GitHub%20Basics.pdf)
