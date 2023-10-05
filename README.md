@@ -1,5 +1,7 @@
 # Sessions - InceptionU Cohort 11
 
+[Live Site](https://acidtone.github.io/sessions-c11/)
+
 ---
 
 ## Oct 5 - Git, GitHub and the Command Line
@@ -18,6 +20,7 @@
   - [Git: First-time setup](https://gist.github.com/acidtone/6ca4c62d88570732d3760904ef965e4d)
   - [Clone Happy](https://gist.github.com/acidtone/1a6e3324d97e61fa0ee59bc4cba3ef33)
   - [Project: Publish a webpage with Git and GitHub Pages](https://gist.github.com/acidtone/5d45f96bc11fada75038e552f9ba1a5c)
+  - Optional: 
 - Don't like the command line? Try [using Git source control in VS Code](https://code.visualstudio.com/docs/sourcecontrol/overview)
 
 ---
