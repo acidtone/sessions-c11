@@ -64,6 +64,8 @@ Continue with the wikipedia text and customize your text and font styles:
 - Refactor your `max-width` declaration from the previous activity so that it uses the `ch` unit. Change your max line length to `85ch`.
 - User [Google Fonts](https://fonts.google.com/) to set a custom Display font on your headings and a Text font for the rest of your text.
 
+**Don't forget to push your code to a public GitHub repo to keep up your green!**
+
 ---
 
 ## Oct 5 - Git, GitHub and the Command Line
