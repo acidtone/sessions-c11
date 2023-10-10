@@ -1,6 +1,6 @@
 # Sessions - InceptionU Cohort 11
-
-[Live Site](https://acidtone.github.io/sessions-c11/)
+- [Live Site](https://acidtone.github.io/sessions-c11/)
+- [Daily sample code](https://github.com/acidtone/daily-code-c11)
 
 ---
 
