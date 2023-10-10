@@ -12,7 +12,11 @@
 ### 2. Introduction to HTML
 - [Getting Started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 
-### Activity: Wikipedia Markup**
+#### Materials
+- Video: [Pair Programming](https://www.youtube.com/watch?v=vgkahOzFH2Q)
+  - [Dos and Donts](https://gist.github.com/acidtone/caa20b2520814a94240043c40301024a)
+
+#### Activity: Wikipedia Markup**
 1. Pick a hobby or interest that you could build a webpage around;
 2. Find open source content on Wikipedia that contains examples of:
 	- Headings (`<h1>`-`<h6>`)
