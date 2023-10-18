@@ -29,7 +29,7 @@
     - Watch these videos if you want to learn more about Flexbox than what we cover in class.
 
 ### Slides
-[![Slides: Flexbox Navigation](assets/images/slides/flexbox-nav.png)](html-css/flexbox-nav.html)
+[![Slides: Flexbox Navigation](assets/images/slides/flexbox-nav.png)](https://acidtone.github.io/sessions-c11/html-css/flexbox-nav.html)
 
 #### Activities
 Follow the steps and sample code provided in today's slides:
@@ -65,7 +65,7 @@ Follow the steps and sample code provided in today's slides:
 
 ### 3. Introduction to CSS
 
-[![Slides: CSS Introduction](assets/images/slides/css-introduction.png)](html-css/css-introduction.html)
+[![Slides: CSS Introduction](assets/images/slides/css-introduction.png)](https://acidtone.github.io/sessions-c11/html-css/css-introduction.html)
 
 #### Materials
 - [Getting Started with CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started)
@@ -85,7 +85,7 @@ Play around and experiment with different box model properties and HTML elements
 
 ### 4. Web Typography
 
-[![Web typography](assets/images/slides/web-typography.png)](html-css/web-typography.html)
+[![Web typography](assets/images/slides/web-typography.png)](https://acidtone.github.io/sessions-c11/html-css/web-typography.html)
 
 #### Materials
 - Video: [Design principles: Typography](https://www.youtube.com/watch?v=yom0nogFN3k)
