@@ -4,6 +4,38 @@
 
 ---
 
+## Oct 18 - Horizontal Navigation with Flexbox
+### Materials
+- MDN: [Styling links as buttons](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links#styling_links_as_buttons)
+- CSS Tricks: [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+#### Learning Games
+- [Flexbox Froggy](https://flexboxfroggy.com/)
+- [Flexbox Zombies](https://mastery.games/flexboxzombies/)
+
+#### Sample Code
+- [Vertical Nav Menu](https://codepen.io/browsertherapy/pen/XWjwJGL)
+- [Flexbox Navigation Examples](https://codepen.io/acidtone/pen/bGMaLNo)
+- [Common Flexbox Layout Patterns](https://codepen.io/acidtone/pen/JjvpOKR)
+
+#### Misc Articles
+- [Create a navbar with CSS flexbox ](https://dev.to/jungjungie/create-a-navbar-with-css-flexbox-2leh)
+- [Creating a Menu with Flexbox](https://www.youtube.com/watch?v=2plKBskaKfY)
+
+#### Courses
+- [What the Flexbox!?!](https://flexbox.io/)
+    - A 20-video course on Flexbox by Web Bos;
+    - Watch these videos if you want to learn more about Flexbox than what we cover in class.
+
+[![Slides: Flexbox Navigation](assets/images/slides/flexbox-nav.png)](html-css/flexbox-nav.html)
+
+#### Activities
+Follow the steps and sample code provided in today's slides:
+1. [Make a vertical nav menu](html-css/flexbox-nav.html#/2)
+2. [Horizontal navigation with Flexbox](html-css/flexbox-nav.html#/11)
+
+---
+
 ## Oct 10 - Introduction to HTML and CSS
 
 ### 1. Visual hierarchy
