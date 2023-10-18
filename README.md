@@ -8,6 +8,7 @@
 ### Materials
 - MDN: [Styling links as buttons](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links#styling_links_as_buttons)
 - CSS Tricks: [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- Video: [Flexbox vs CSS Grid](https://www.youtube.com/watch?v=hs3piaN4b5I)
 
 #### Learning Games
 - [Flexbox Froggy](https://flexboxfroggy.com/)
