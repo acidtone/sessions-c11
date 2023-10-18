@@ -28,6 +28,7 @@
     - A 20-video course on Flexbox by Web Bos;
     - Watch these videos if you want to learn more about Flexbox than what we cover in class.
 
+### Slides
 [![Slides: Flexbox Navigation](assets/images/slides/flexbox-nav.png)](html-css/flexbox-nav.html)
 
 #### Activities
