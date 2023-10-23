@@ -4,6 +4,27 @@
 
 ---
 
+## Oct 23 - Javascript Loops
+### Materials
+- MDN: [`for` statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration#for_statement)
+
+### Slides
+[![Slides: Javascript Loops](assets/images/slides/flexbox-nav.png)](https://acidtone.github.io/sessions-c11/js/for-loops)
+
+### Activity: FizzBuzz
+**FizzBuzz** is the classic interview question.
+#### Starter Code
+- [Print 1-to-100 with a `for` Loop](https://gist.github.com/acidtone/e87aa5564ae1b286beca66b07d52550f)
+
+#### Instructions
+- Print a list of numbers from 1 to 100 using a loop.
+- When a number is divisible by 3, change the output value to "Fizz".
+- When a number is divisible by 5, change the value to "Buzz".
+- When a number is divisible by **both** 3 _and_ 5, change the value to "FizzBuzz".
+- If none of the above apply, we just output the number.
+
+---
+
 ## Oct 18 - Horizontal Navigation with Flexbox
 ### Materials
 - MDN: [Styling links as buttons](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links#styling_links_as_buttons)
