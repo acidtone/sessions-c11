@@ -23,6 +23,14 @@
 - When a number is divisible by **both** 3 _and_ 5, change the value to "FizzBuzz".
 - If none of the above apply, we just output the number.
 
+### Activity 2: Image Gallery with `for...of`
+#### Starter Code
+- [Gallery Starter](https://github.com/acidtone/daily-code-c11/tree/main/2023-10-23-loops/02-gallery-starter)
+
+#### Instructions
+1. Copy the starter code into your work space.
+2. Using the instructions in the comments of `app.js`, use a `for...of` loop to create a gallery of [Lorem Picsum](https://picsum.photos/) images.
+
 ---
 
 ## Oct 18 - Horizontal Navigation with Flexbox
