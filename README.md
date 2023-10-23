@@ -9,7 +9,7 @@
 - MDN: [`for` statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration#for_statement)
 
 ### Slides
-[![Slides: Javascript Loops](assets/images/slides/flexbox-nav.png)](https://acidtone.github.io/sessions-c11/js/for-loops)
+[![Slides: Javascript Loops](assets/images/slides/for-loops.png)](https://acidtone.github.io/sessions-c11/js/for-loops)
 
 ### Activity: FizzBuzz
 **FizzBuzz** is the classic interview question.
