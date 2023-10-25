@@ -21,7 +21,7 @@
   - [Broken: Gallery using array of objects](https://github.com/acidtone/daily-code-c11/tree/main/2023-10-25-async/00b-broken-gallery-objects)
 
 #### Activity: Fix the Loop
-The loop in the above sample code is broken!
+The loop in the above [sample code](https://github.com/acidtone/daily-code-c11/tree/main/2023-10-25-async/00b-broken-gallery-objects) is broken!
 1. Refactor the following code so that it works with an array of objects.
 2. Add custom `alt` attributes that use the title property.
 
