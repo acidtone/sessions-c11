@@ -4,6 +4,46 @@
 
 ---
 
+## Oct 25 - Asynchronous Fetching
+### Materials
+- Install: 
+  - [Postman](https://www.postman.com/) - A browser for working with APIs
+- Reading List:
+  - [General asynchronous programming concepts](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Concepts)
+  - [Introducing asynchronous Javascript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing)
+  - [How to Use Fetch with async/await](https://dmitripavlutin.com/javascript-fetch-async-await/)
+- Watch list
+  - [Async & Await](https://www.youtube.com/watch?v=CWjNefiE47Y) by Programming with Mosh
+
+### Review and Extend: Loops and Arrays of Objects
+- Sample Code
+  - [Gallery using array of numbers](https://github.com/acidtone/daily-code-c11/tree/main/2023-10-25-async/00a-gallery-ids)
+  - [Broken: Gallery using array of objects](https://github.com/acidtone/daily-code-c11/tree/main/2023-10-25-async/00b-broken-gallery-objects)
+
+#### Activity: Fix the Loop
+The loop in the above sample code is broken!
+1. Refactor the following code so that it works with an array of objects.
+2. Add custom `alt` attributes that use the title property.
+
+### HTTP Basics
+
+[![Slides: HTTP Protocol](assets/images/slides/http-rest.png)](https://acidtone.github.io/sessions-c11/misc/http-rest.html)
+
+### The Event Loop
+- [Javascript the Weird Parts](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts)
+  - @[1:37:35](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts&t=5855s) - The Event Loop and Asynchronous Callbacks
+
+### Fetching Data with `async`/`await`
+
+[![Slides: HTTP Protocol](assets/images/slides/async.png)](https://acidtone.github.io/sessions-c11/js/async.html)
+
+#### Materials
+- Gists: 
+  - [Asynchronous data with async/await](https://gist.github.com/acidtone/82944dbaa59aef9247833fe79eae3fb2)
+  - [Practice REST API Endpoints](https://gist.github.com/acidtone/673dfc5c11ce06e9e8cd6ce33609eb3c)
+
+---
+
 ## Oct 23 - Javascript Loops
 ### Materials
 - MDN: [`for` statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration#for_statement)
