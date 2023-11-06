@@ -4,6 +4,57 @@
 
 ---
 
+## Nov 6 - CSS Grid
+### Materials
+- CSS Tricks: [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- MDN: [Learning CSS Grid](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)
+- Games: [Grid Garden](https://cssgridgarden.com/)
+- Videos
+  - Layout Land:
+    - [Flexbox vs. CSS Grid — Which is Better?](https://www.youtube.com/watch?v=hs3piaN4b5I)
+  - Grid by Example:
+    - [Defining a Grid](https://gridbyexample.com/video/series-define-a-grid/)
+    - [The fr unit](https://gridbyexample.com/video/series-the-fr-unit/)
+    - [Repeat Notation](https://gridbyexample.com/video/series-repeat/)
+
+### Beginner Activities
+Using CSS Grid, build one or both of the following:
+
+**An empty Tic-Tac-Toe grid:**
+![Tic Tac Toe Board](assets/images/css/tic-tac-toe.png)
+- [Starter Code](https://github.com/acidtone/daily-code-c11/tree/main/2023-11-06-css-grid/00a-tic-tac-toe-starter)
+- 3x3 grid of squares
+- Borders **between** each square
+- Optional: Add static, centred "X" and "O" content in some or all of the squares
+
+**OR**
+
+**Chess board:**
+![Chess Board](assets/images/css/chess.png)
+- [Starter Code](https://github.com/acidtone/daily-code-c11/tree/main/2023-11-06-css-grid/00b-chess-board-starter)
+- 8x8 grid of squares
+- Each square alternates colours like a chess board 
+
+### Galleries
+#### Materials
+- Layout Land: [Easy Gallery Layout with CSS Grid](https://www.youtube.com/watch?v=tFKrK4eAiUQ)
+- Grid by Example:
+  - [Introducing minmax()](https://gridbyexample.com/video/series-minmax/)
+  - [auto-fit and auto-fill](https://gridbyexample.com/video/series-auto-fill-auto-fit/)
+
+#### Starter Code
+- [Gallery Starter Code](https://github.com/acidtone/daily-code-c11/tree/main/2023-11-06-css-grid/00c-gallery-starter)
+
+### Full Page Layout
+#### Materials
+- MDN: [Document and website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
+- Layout Land: [Build a Classic Layout FAST in CSS Grid](https://www.youtube.com/watch?v=KOvGeFUHAC0)
+
+#### Starter Code
+- [Full Page Starter Code](https://github.com/acidtone/daily-code-c11/tree/main/2023-11-06-css-grid/00d-full-page-starter)
+
+---
+
 ## Oct 25 - Asynchronous Fetching
 ### Materials
 - Install: 
