@@ -53,6 +53,11 @@ Using CSS Grid, build one or both of the following:
 #### Starter Code
 - [Full Page Starter Code](https://github.com/acidtone/daily-code-c11/tree/main/2023-11-06-css-grid/00d-full-page-starter)
 
+### Overlapping Items
+#### Materials
+- Layout Land: [Overlap on the Web, Graphic Design Made Easy with CSS Grid](https://www.youtube.com/watch?v=EashgVqboWo)
+- Codepen: [Thermometer Example](https://codepen.io/acidtone/pen/YbmvrX)
+
 ---
 
 ## Oct 25 - Asynchronous Fetching
